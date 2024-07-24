@@ -1,0 +1,19 @@
+.text-primary {
+  color: var(--primary);
+}
+
+.text-secondary {
+  color: var(--secondary);
+}
+
+.text-white {
+  color: var(--white);
+}
+
+.bg-secondary {
+  background: var(--secondary);
+}
+
+.bg-light {
+  background: var(--light);
+}

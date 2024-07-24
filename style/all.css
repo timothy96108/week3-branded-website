@@ -3,5 +3,15 @@
 @import './base/base.css';
 
 /* utilities */
+@import './utilities/variables.css';
+@import './utilities/colors.css';
+@import './utilities/typography.css';
+@import './utilities/layout.css';
+@import './utilities/spacing.css';
+@import './utilities/display.css';
+
+/* layout */
+@import './layout/header.css';
+@import './layout/footer.css';
 
 /* pages */
