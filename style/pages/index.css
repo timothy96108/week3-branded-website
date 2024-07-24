@@ -66,3 +66,40 @@
 .comment-time {
   color: #707070;
 }
+
+/* contact */
+.form-field {
+  font-size: 1rem;
+  padding: 0.375rem 0.75rem;
+  background: transparent;
+  border: 1px solid var(--dark);
+}
+
+.form-check {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin: 0 0.25rem 0 0;
+  flex-shrink: 0;
+}
+
+.form-submit {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  width: 33.333%;
+}
+
+.form-submit:hover {
+  background: var(--primary);
+}
+
+@media (max-width: 991.98px) {
+  .form-submit {
+    width: 50%;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .form-submit {
+    width: 100%;
+  }
+}

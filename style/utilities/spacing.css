@@ -61,10 +61,18 @@
   .mb-sm-8 {
     margin-bottom: 2rem;
   }
+
+  .mb-sm-12 {
+    margin-bottom: 3rem;
+  }
 }
 
 @media (min-width: 992px) {
   .mb-lg-0 {
     margin-bottom: 0;
+  }
+
+  .mb-lg-12 {
+    margin-bottom: 3rem;
   }
 }
