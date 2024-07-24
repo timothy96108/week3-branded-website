@@ -89,6 +89,15 @@
   font-weight: 700;
 }
 
+.fw-black {
+  font-weight: 900;
+}
+
+/* font style */
+.fst-italic {
+  font-style: italic;
+}
+
 /* text align */
 .text-end {
   text-align: end;
