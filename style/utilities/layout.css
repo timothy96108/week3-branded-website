@@ -44,6 +44,10 @@
   flex-wrap: wrap;
 }
 
+.flex-column {
+  flex-direction: column;
+}
+
 .justify-content-between {
   justify-content: space-between;
 }
