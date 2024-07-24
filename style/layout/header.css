@@ -10,11 +10,11 @@
 
 .header .nav-list {
   gap: 2rem;
-  margin-right: -1rem;
+  margin-right: -0.75rem;
 }
 
 .header .nav-link {
-  padding: 0.5rem 1rem;
+  padding: 0.375rem 0.75rem;
   font-size: 1.25rem;
 }
 
