@@ -30,6 +30,24 @@
 }
 
 /* classic */
-.classic-title {
+.classic-title,
+.branded-title {
   font-size: 3rem;
+}
+
+/* branded */
+.branded {
+  background-image: url('../../images/branded-bg.png');
+}
+
+@media (max-width: 991.98px) {
+  .branded {
+    background-image: url('../../images/branded-bg-md.png');
+  }
+}
+
+@media (max-width: 575.98px) {
+  .branded {
+    background-image: url('../../images/branded-bg-sm.png');
+  }
 }

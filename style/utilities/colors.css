@@ -17,3 +17,7 @@
 .bg-light {
   background: var(--light);
 }
+
+.bg-white {
+  background: var(--white);
+}
