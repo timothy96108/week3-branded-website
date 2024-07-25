@@ -14,5 +14,9 @@
 @import './layout/header.css';
 @import './layout/footer.css';
 
+/* components */
+@import './components/pagination.css';
+
 /* pages */
 @import './pages/index.css';
+@import './pages/product.css';

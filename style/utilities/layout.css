@@ -35,6 +35,18 @@
   }
 }
 
+@media (min-width: 576px) {
+  .d-sm-block {
+    display: block;
+  }
+}
+
+@media (min-width: 1200px) {
+  .d-xl-block {
+    display: block;
+  }
+}
+
 /* flex */
 .d-flex {
   display: flex;
@@ -93,6 +105,14 @@
   width: 100%;
 }
 
+.w-33 {
+  width: 33.333%;
+}
+
+.w-50 {
+  width: 50%;
+}
+
 @media (min-width: 576px) {
   .w-sm-50 {
     width: 50%;
@@ -145,5 +165,11 @@
 
   .col-lg-6 {
     width: 50%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .col-xl-3 {
+    width: 25%;
   }
 }
