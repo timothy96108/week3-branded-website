@@ -110,3 +110,8 @@
 .text-center {
   text-align: center;
 }
+
+/* line break */
+.line-break {
+  white-space: pre-line;
+}
