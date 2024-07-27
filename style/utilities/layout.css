@@ -85,6 +85,10 @@
     display: flex;
   }
 
+  .flex-sm-row {
+    flex-direction: row;
+  }
+
   .justify-content-sm-between {
     justify-content: space-between;
   }
@@ -97,6 +101,10 @@
 @media (min-width: 992px) {
   .d-lg-flex {
     display: flex;
+  }
+
+  .flex-lg-column {
+    flex-direction: column;
   }
 }
 
@@ -171,8 +179,16 @@
     width: 33.333%;
   }
 
+  .col-lg-5 {
+    width: 41.666%;
+  }
+
   .col-lg-6 {
     width: 50%;
+  }
+
+  .col-lg-7 {
+    width: 58.333%;
   }
 }
 

@@ -1,0 +1,19 @@
+.store-img {
+  height: 200px;
+}
+
+.map-frame {
+  height: 100%;
+}
+
+@media (max-width: 991.98px) {
+  .map-frame {
+    height: 414px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .map-frame {
+    height: 208px;
+  }
+}

@@ -133,3 +133,16 @@
     margin-bottom: 5rem;
   }
 }
+
+/* gap */
+@media (min-width: 576px) {
+  .gap-sm-6 {
+    gap: 1.5rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .gap-lg-0 {
+    gap: 0;
+  }
+}
