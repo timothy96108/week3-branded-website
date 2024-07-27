@@ -76,6 +76,10 @@
   align-items: center;
 }
 
+.flex-grow-1 {
+  flex-grow: 1;
+}
+
 @media (min-width: 576px) {
   .d-sm-flex {
     display: flex;
