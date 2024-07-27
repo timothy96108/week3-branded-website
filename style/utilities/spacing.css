@@ -3,8 +3,8 @@
 }
 
 .px-6 {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 
 .pt-4 {
@@ -95,7 +95,7 @@
   }
 
   .me-sm-12 {
-    margin-right: 3em;
+    margin-right: 3rem;
   }
 
   .mb-sm-0 {
