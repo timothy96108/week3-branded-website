@@ -10,3 +10,8 @@
   white-space: nowrap;
   overflow: hidden;
 }
+
+/* image cover */
+.object-fit-cover {
+  object-fit: cover;
+}
