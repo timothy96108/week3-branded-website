@@ -17,6 +17,7 @@
 
 /* components */
 @import './components/pagination.css';
+@import './components/breadcrumb.css';
 
 /* pages */
 @import './pages/index.css';
@@ -24,3 +25,4 @@
 @import './pages/store.css';
 @import './pages/location.css';
 @import './pages/blog.css';
+@import './pages/article.css';
