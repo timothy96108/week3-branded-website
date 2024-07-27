@@ -89,12 +89,22 @@
     flex-direction: row;
   }
 
+  .flex-sm-column {
+    flex-direction: column;
+  }
+
   .justify-content-sm-between {
     justify-content: space-between;
   }
 
   .align-items-sm-center {
     align-items: center;
+  }
+}
+
+@media (min-width: 768px) {
+  .flex-md-row {
+    flex-direction: row;
   }
 }
 
