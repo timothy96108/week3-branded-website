@@ -53,6 +53,11 @@
     padding-bottom: 1.25rem;
   }
 
+  .footer .contact-list span,
+  .footer .contact-list a {
+    font-size: 1rem;
+  }
+
   .footer .sns-list {
     gap: 0.5rem;
   }

@@ -75,6 +75,10 @@
   border: 1px solid var(--dark);
 }
 
+textarea.form-field {
+  resize: none;
+}
+
 .form-check {
   width: 1.5rem;
   height: 1.5rem;
